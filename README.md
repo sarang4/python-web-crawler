@@ -11,6 +11,6 @@ To execute this crawler you need following packages:
 4.BeautifulSoup
 
 After checking whther all packes are available, execute below command into your python environment:
-python web_crawler.py <option argument one: number of links to be crawled> <option argument two: crawling URL default is http://python.org/>
+python web_crawler.py [optional argument one: number of links to be crawled] [optional argument two: crawling URL default is http://python.org/]
 
 You can stop this program by pressing Ctl + c.
